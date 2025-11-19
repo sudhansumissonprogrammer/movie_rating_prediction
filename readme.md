@@ -8,7 +8,7 @@ soumya ranjan pradhan
 
 This project builds a machine learning model that predicts the IMDB rating of Indian movies using features like Year, Genre, Votes, Duration, Director, and Actors.
 
-📌 Project Overvie
+📌 Project Overview
 
 We work with the dataset IMDB_Movies_India.csv containing:
 
