@@ -1,5 +1,6 @@
 🎬 Movie Rating Prediction using Machine Learning
-BY-sudhansu sahoo
+BY-
+sudhansu sahoo
 Roshan choudary
 surya narayan panda
 soumya ranjan pradhan
