@@ -5,9 +5,10 @@ Roshan choudary
 surya narayan panda
 soumya ranjan pradhan
 
+
 This project builds a machine learning model that predicts the IMDB rating of Indian movies using features like Year, Genre, Votes, Duration, Director, and Actors.
 
-📌 Project Overview
+📌 Project Overvie
 
 We work with the dataset IMDB_Movies_India.csv containing:
 
